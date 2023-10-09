@@ -22,18 +22,3 @@ Welcome to the Business Intelligence Transformation project for AdventureWorks C
 
 We welcome contributions and collaborations to enhance this Business Intelligence solution. If you have suggestions, feature requests, or would like to collaborate on improving the project, please open an issue or submit a pull request.
 
-## Getting Started
-
-To get started with this project:
-
-1. Clone the repository to your local machine:
-
-2. Follow the setup instructions in the respective directories to replicate our data transformation workflows and explore the Power BI reports.
-
-We believe in the power of data-driven decision-making, and this project aims to facilitate that process for AdventureWorks Cycles. Join us on this journey toward data excellence!
-
----
-
-[Visit Our Website](https://www.adventureworkscycles.com)
-[Contact Us](mailto:contact@adventureworkscycles.com)
-
