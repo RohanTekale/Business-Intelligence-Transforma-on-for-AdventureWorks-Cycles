@@ -22,3 +22,9 @@ Welcome to the Business Intelligence Transformation project for AdventureWorks C
 
 We welcome contributions and collaborations to enhance this Business Intelligence solution. If you have suggestions, feature requests, or would like to collaborate on improving the project, please open an issue or submit a pull request.
 
+
+**Author:** Rohan Rajkumar Tekale
+
+**Date:** [29-09-2023]
+
+**GitHub Repository:** [https://github.com/Rorate7/Exploratory-Data-Analysis---Retail]
