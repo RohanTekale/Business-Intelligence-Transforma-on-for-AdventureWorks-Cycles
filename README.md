@@ -27,4 +27,4 @@ We welcome contributions and collaborations to enhance this Business Intelligenc
 
 **Date:** [29-09-2023]
 
-**GitHub Repository:** [https://github.com/Rorate7/Exploratory-Data-Analysis---Retail]
+**GitHub Repository:** [https://github.com/Rorate7/Business-Intelligence-Transforma-on-for-AdventureWorks-Cycles]
