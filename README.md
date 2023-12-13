@@ -28,3 +28,5 @@ We welcome contributions and collaborations to enhance this Business Intelligenc
 **Date:** [18-08-2023]
 
 **GitHub Repository:** [https://github.com/Rorate7/Business-Intelligence-Transforma-on-for-AdventureWorks-Cycles]
+![Images]("C:\Users\tekal\OneDrive\Rohan Data\DATA ANALYSIS CAREER\UDEMY\POWER BI\New folder\Adventure Work Report New_page-0001.jpg")
+
